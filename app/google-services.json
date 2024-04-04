@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113085655622",
+    "project_id": "ekantin-eee8a",
+    "storage_bucket": "ekantin-eee8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113085655622:android:a5759310c81a950dfd7847",
+        "android_client_info": {
+          "package_name": "com.example.ekantin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyZqgI-JatSNLBa9lKHnNRNURFxtIy72Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
